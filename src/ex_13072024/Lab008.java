@@ -11,7 +11,7 @@ public class Lab008 {
         //%d = any integer - byte, short, int, or long
         //%s = string
         //%c = char
-        //%f = float
+        //%f = double
 
         System.out.printf("Your age is --> %d",age);
     }
