@@ -1,7 +1,6 @@
 package ex_14072024;
 
 public class Lab012 {
-
     public static void main(String[] args) {
 
         //Arithmetic operator --> +,/,*,-
@@ -17,11 +16,8 @@ public class Lab012 {
         //== means comparing [true and false]
 
         byte a = 10;
-        byte b = 23;
+        byte b = 53;
         int c = a+b;
         System.out.println(c);
-
-
-
     }
 }
