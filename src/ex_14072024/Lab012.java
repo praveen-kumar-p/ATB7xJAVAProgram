@@ -16,6 +16,11 @@ public class Lab012 {
         //= means Assign the value
         //== means comparing [true and false]
 
+        byte a = 10;
+        byte b = 23;
+        int c = a+b;
+        System.out.println(c);
+
 
 
     }
