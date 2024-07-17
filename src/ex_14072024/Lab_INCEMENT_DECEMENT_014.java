@@ -51,8 +51,8 @@ public class Lab_INCEMENT_DECEMENT_014 {
 
 //        System.out.println(++a + a++ + a++);
 //        System.out.println(a);
-        System.out.println(++a + a-- + a++);
-        System.out.println(a);
+//        System.out.println(++a + a-- + a++);
+//        System.out.println(a);
 
     }
 }
