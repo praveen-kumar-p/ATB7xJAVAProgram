@@ -1,6 +1,7 @@
 package ex_20072024;
 
-public class Lab018 {
+public class
+Lab018 {
     public static void main(String[] args) {
 
         //Modules - %

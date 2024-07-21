@@ -11,7 +11,7 @@ public class Lab017 {
         if (2+2>=4){
             System.out.println("Inside");
         }
-        System.out.println("Outside");
+        System.out.println("Outside -->" +a);
     }
 
 }

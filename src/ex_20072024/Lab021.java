@@ -11,10 +11,13 @@ public class Lab021 {
         System.out.println("Enter the Student Score!!");
         int score = sc.nextInt();
 
-        if (score >= 90 && score <= 100){
-//            grade = 'A';
-
+        if (score >= 90 && score <= 100) {
+            char grade = 'A';
+            System.out.println("grade a");
+        } else if (score >= 80 && score <= 90) {
+            char grade = 'B';
+            System.out.println("grade B");
         }
-        System.out.println("Your grade is --> ");
+        System.out.println("Your grade is --> not matching");
     }
 }
