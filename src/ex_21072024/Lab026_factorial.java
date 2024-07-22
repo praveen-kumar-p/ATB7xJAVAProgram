@@ -10,9 +10,9 @@ public class Lab026_factorial {
         //n=1  fact = 1*1 = 1
         // n = 3  fact = 3*2*1 = 6
 
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the Numbers");
-        int n = sc.nextInt();
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("Enter the Numbers");
+//        int n = sc.nextInt();
 
 
         //Output is
@@ -35,5 +35,13 @@ public class Lab026_factorial {
 //            fact = fact*i;
 //        }
 //        System.out.println(fact);
+
+
+//        for (int i = 1; i<=5; ++i){
+//            for (int j = 1; j<=i; j++){
+//                System.out.print("* ");
+//            }
+//            System.out.println();
+//        }
     }
 }
