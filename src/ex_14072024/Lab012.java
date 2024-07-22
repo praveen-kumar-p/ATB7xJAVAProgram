@@ -20,11 +20,14 @@ public class Lab012 {
 //        int c = a+b;
 //        System.out.println(c);
 
-        char e ='A';  //--> ASCII Value 65
-        char d = 'B';  //ASCII Value 66
-        int sum = e+d;
-        System.out.println(sum);
-        System.out.println('A' == 'B');
-        System.out.println('B' >= 'A');
+//        char e ='A';  //--> ASCII Value 65
+//        char d = 'B';  //ASCII Value 66
+//        int sum = e+d;
+//        System.out.println(sum);
+//        System.out.println('A' == 'B');
+//        System.out.println('B' >= 'A');
+
+
+
     }
 }
