@@ -1,5 +1,7 @@
 package ex_21072024;
 
+import java.util.Scanner;
+
 public class Lab024_for {
     public static void main(String[] args) {
 
@@ -109,6 +111,39 @@ public class Lab024_for {
 //            }
 //            System.out.println("Odd" + i);
 //        }
+
+
+        //Write program for displaying "Five" times the text
+
+//        for (int i = 1; i<=5; i++){
+//            System.out.println("Praveen");
+//
+//        }
+
+        //Write program to display numbers from 1 to 5
+//        for (int i = 1; i<=5; i++){
+//            System.out.println("Numbers --> " + i);
+//        }
+
+        //Write program to sum the n Natural numbers
+
+//        int sum = 0;
+//        int n = 50;
+//        for (int i =1; i <=n; i++){
+//            sum = i + n;
+//        }
+//        System.out.println(sum);
+
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("Enter Sum");
+//        int sum = sc.nextInt();
+//
+//        for (int i = 1; i <= sum; i++){
+//            sum = i + sum;
+//        }
+//        System.out.println(sum);
+
+
     }
 
 }
