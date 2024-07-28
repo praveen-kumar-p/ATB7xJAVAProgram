@@ -1,5 +1,6 @@
 package ex_21072024;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Lab024_for {
@@ -143,6 +144,18 @@ public class Lab024_for {
 //        }
 //        System.out.println(sum);
 
+
+
+        //Array program
+        int[] num = {10, 15, 25, 4, 13, 7};
+        int m = 1;
+        for (int i = 0; i<num.length; i++){
+            if (num[i]>m){
+                m = num[i];
+            }
+        }
+        Arrays.sort(num);
+        System.out.println(num[num.length-2]);
 
     }
 
