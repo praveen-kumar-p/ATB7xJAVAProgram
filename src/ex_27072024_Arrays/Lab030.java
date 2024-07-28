@@ -28,6 +28,10 @@ public class Lab030 {
 
         //Boolean type array
         boolean[] is_married = {true, false, true};
+        for (int i = 0; i <is_married.length; i++) {
+            System.out.println(is_married[i]);
+        }
+
         for (int i = 0; i <marks.length ; i++) {
 //            System.out.println(i);
             //the output
