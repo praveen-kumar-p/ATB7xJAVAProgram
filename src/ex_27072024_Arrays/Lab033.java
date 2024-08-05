@@ -40,10 +40,10 @@ public class Lab033 {
 
 
         //Write program to assend the given numbers
-        int[] salary = {7, 25, 14, 10, 55, 5, 9, 34};
+//        int[] salary = {7, 25, 14, 10, 55, 5, 9, 34};
 //        System.out.println(Arrays.toString(salary));
-        Arrays.sort(salary);
-        System.out.println(Arrays.toString(salary));
+//        Arrays.sort(salary);
+//        System.out.println(Arrays.toString(salary));
 
 
         //In desending order
