@@ -38,7 +38,5 @@ public class Lab045 {
         ic.printdetails();
         ba1.printdetails();
 
-
-
     }
 }
