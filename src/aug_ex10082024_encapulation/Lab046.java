@@ -7,7 +7,7 @@ public class Lab046 {
     public static void main(String[] args) {
         VWOLogin login = new VWOLogin("praveen", "Praveen018");
         System.out.println(login.password);
-        login.password = "Pr@veen018";
+        login.password = "123";
         System.out.println(login.password);
     }
 
