@@ -4,7 +4,9 @@ public class Lab054 {
 
 }
 
-class Car extends Vehicle
+class Car extends Vehicle{
+
+}
 
 class Vehicle{
 
