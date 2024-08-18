@@ -7,5 +7,6 @@ public class Lab058 {
 
         son s = new son();
         s.loan50();
+
     }
 }
