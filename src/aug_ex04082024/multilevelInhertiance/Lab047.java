@@ -5,5 +5,11 @@ public class Lab047 {
 
         Son s = new Son();
         s.home();
+
+        Father f = new Father();
+        f.home();
+
+        Grandfather g = new Grandfather();
+        g.home1();
     }
 }
