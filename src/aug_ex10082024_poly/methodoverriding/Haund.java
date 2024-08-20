@@ -7,7 +7,8 @@ public class Haund extends Dog{
         System.out.println("I am haund, I can bark");
     }
 
+    @Override
     void bite(){
-        System.out.println("I can bite");
+        System.out.println("Haund can bite");
     }
 }
