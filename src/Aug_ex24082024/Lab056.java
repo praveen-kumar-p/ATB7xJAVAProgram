@@ -20,7 +20,6 @@ public class Lab056 {
         Collections.sort(a, new Sortbyid());
         Collections.sort(a, new Sortbyname());
         Collections.sort(a, new Sortbyid.Sortbydesc());
-
         System.out.println(a);
     }
 }
@@ -93,4 +92,5 @@ class Student {
 //    public int compareTo(Student another) {
 //        return CharSequence.compare(this.name, another.name);
 //    }
+
 }
