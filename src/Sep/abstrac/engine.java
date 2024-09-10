@@ -1,6 +1,6 @@
-package AUGUST.Aug_Abstract;
+package Sep.abstrac;
 
-abstract class Engine extends GearBox {
+abstract class engine extends gear{
 
     abstract void start();
     abstract void stop();
